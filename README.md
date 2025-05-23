@@ -54,4 +54,4 @@ AutoDog은 C++과 아두이노를 기반으로 개발된 4족 보행 자율주�
 
 ## 시연
 
-**Live URL**: [https://www.youtube.com/watch?v=saTzeXXPWuo](https://www.youtube.com/watch?v=saTzeXXPWuo)
+**Live URL**: [https://youtu.be/IdWOrNfSNo0](https://youtu.be/IdWOrNfSNo0)
